@@ -16,5 +16,6 @@ body > div{
     padding: 3em;
     border: 2px #2e2e2e solid;
     border-radius: 2em;
-    background-color: white;
+    background-color: #2e2e2e;
+    color: #d9d9d9;
 }
